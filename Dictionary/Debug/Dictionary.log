@@ -1,0 +1,4 @@
+﻿  Main.cpp
+D:\Visual_Studio_Projects_Cpp_book\Projects\Dictionary\Dictionary\Main.cpp(48,20): warning C4018:  '<': signed/unsigned mismatch
+D:\Visual_Studio_Projects_Cpp_book\Projects\Dictionary\Dictionary\Main.cpp(54,22): warning C4018:  '<': signed/unsigned mismatch
+  Dictionary.vcxproj -> D:\Visual_Studio_Projects_Cpp_book\Projects\Dictionary\Debug\Dictionary.exe
